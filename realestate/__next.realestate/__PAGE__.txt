@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[83468,["/vision-photography/_next/static/chunks/69fbca2f54a7e1dd.js","/vision-photography/_next/static/chunks/5cbd943ee94f33ef.js","/vision-photography/_next/static/chunks/9a7fe7a759010e7b.js"],"RealEstateNavbar"]
+3:I[95681,["/vision-photography/_next/static/chunks/69fbca2f54a7e1dd.js","/vision-photography/_next/static/chunks/5cbd943ee94f33ef.js","/vision-photography/_next/static/chunks/9a7fe7a759010e7b.js"],"RealEstateHero"]
+4:I[14081,["/vision-photography/_next/static/chunks/69fbca2f54a7e1dd.js","/vision-photography/_next/static/chunks/5cbd943ee94f33ef.js","/vision-photography/_next/static/chunks/9a7fe7a759010e7b.js"],"RealEstateProperties"]
+5:I[97367,["/vision-photography/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"buildId":"jlzAIeFYPsnVlxG-aKZmy","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-[#0a0a0a] text-white selection:bg-amber-500/30 selection:text-amber-200","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","footer",null,{"className":"py-12 border-t border-white/10 text-center text-sm tracking-widest text-zinc-500 uppercase","children":["$","p",null,{"children":"© 2026 Riyadh Residences. Exclusive Portfolio."}]}]]}],[["$","script","script-0",{"src":"/vision-photography/_next/static/chunks/69fbca2f54a7e1dd.js","async":true}],["$","script","script-1",{"src":"/vision-photography/_next/static/chunks/5cbd943ee94f33ef.js","async":true}],["$","script","script-2",{"src":"/vision-photography/_next/static/chunks/9a7fe7a759010e7b.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null
